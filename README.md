@@ -1,3 +1,12 @@
-# My Awesome Book
+# **虎尾科技大學**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+### 協同產品設計實習
+
+#### 每周心得報告
+
+設二乙\_40523248\_嚴伯彥
+
+設二乙\_40523249\_蔡欣容
+
+設二乙\_40523250\_鄭錫謙
+
