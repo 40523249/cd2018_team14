@@ -2,7 +2,7 @@
 
 #### 簡介更新過的V-rep功能與特性
 
-#### 有關鋼球搬運車的連趕概念:[https://github.com/mdecourse/cd2018/blob/9a88b7f10cc76581641afe5fba330eb339ec9402/v-rep/jansen\_walker/40423116car5-2.ttt](https://github.com/mdecourse/cd2018/blob/9a88b7f10cc76581641afe5fba330eb339ec9402/v-rep/jansen_walker/40423116car5-2.ttt)
+#### 有關鋼球搬運車的連桿概念:[https://github.com/mdecourse/cd2018/blob/9a88b7f10cc76581641afe5fba330eb339ec9402/v-rep/jansen\_walker/40423116car5-2.ttt](https://github.com/mdecourse/cd2018/blob/9a88b7f10cc76581641afe5fba330eb339ec9402/v-rep/jansen_walker/40423116car5-2.ttt)
 
 #### 利用Excel做出出缺席名單
 
