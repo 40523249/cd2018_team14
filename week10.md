@@ -13,11 +13,5 @@
 
 ### 學習使用 Pyslvs\(2D\) 並且將檔案放入solvespace\(3D\)查看畫出作動線
 
-
-
-小組利用pyslvs設計雙六連桿機構，放入solvespace看六連桿機構線段的所有尺寸\(目前還未完全完成\)![](/assets/擷取.JPG)
-
-
-
-
+小組利用pyslvs設計雙六連桿機構，放入solvespace看六連桿機構線段的所有尺寸\(目前還未完全完成\) ![](/assets/擷取.JPG)
 
