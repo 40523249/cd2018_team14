@@ -21,6 +21,7 @@ deg = math.pi/180.
 class Spur(object):
     def __init__(self, ctx):
         self.ctx = ctx
+
     def create_line(self, x1, y1, x2, y2, width=3, fill="red"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
@@ -138,7 +139,7 @@ x = (canvas.width)/2
 y = (canvas.height)/2
 r = 0.8*(canvas.height/2)
 # 齒數
-n = 20
+n = 53
 # 壓力角
 pa = 20
 Spur(ctx).Gear(x, y, r, n, pa, "blue")
