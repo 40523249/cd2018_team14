@@ -13,7 +13,7 @@
 
 ### [組合轉動正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
 
-### 40523250:
+### 40523248:
 
 
 
