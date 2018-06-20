@@ -4,3 +4,19 @@
 
 [https://www.youtube.com/watch?v=kMpuBWUoATc&feature=youtu.be](https://www.youtube.com/watch?v=kMpuBWUoATc&feature=youtu.be)
 
+### 40523248:
+
+### 三段式提球機構Pyslvs![](/assets/eb95afa0-48f6-499b-b5b0-eff44771884d.png)
+
+### 三段試題球機構slvs
+
+![](/assets/e97af706-ec2b-46e7-8320-182dc4b98ded.png)
+
+### onshape組合圖
+
+![](/assets/未命名.png)
+
+### [三段試題球機構Vrep模擬](https://legacy.gitbook.com/book/s40523248/2018-cdb-14/edit#)
+
+
+
