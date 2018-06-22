@@ -18,5 +18,15 @@
 
 ### [三段試題球機構Vrep模擬](https://legacy.gitbook.com/book/s40523248/2018-cdb-14/edit#)
 
+### 40523249:
+
+### 三段式提球機構Pyslvs![](/assets/pls.jpg)
+
+### 三段試題球機構slvs![](/assets/slvs.jpg)
+
+### onshape組合圖![](/assets/os pic.png)
+
+### [三段式提球機構模擬](https://www.youtube.com/watch?v=1FE5DoI50-4)
+
 
 
