@@ -22,7 +22,7 @@
 
 ### [三段式提球機構Pyslvs![](/assets/pls.jpg)](https://github.com/40523249/40523249_2018/blob/gh-pages/40523249-2.pyslvs)
 
-### [三段試提球機構slvs![](/assets/slvs.jpg)](https://github.com/40523249/40523249_2018/blob/gh-pages/40523249-2.slvs)
+### [三段式提球機構slvs![](/assets/slvs.jpg)](https://github.com/40523249/40523249_2018/blob/gh-pages/40523249-2.slvs)
 
 ### [onshape組合圖![](/assets/os pic.png)](https://cad.onshape.com/documents/c9d50f23b7fc038b67765e06/w/e13f41f34fee268718a58320/e/083e998bb59fb160a2d387d4)
 
