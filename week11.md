@@ -20,9 +20,9 @@
 
 # 40523249:
 
-### 三段式提球機構Pyslvs![](/assets/pls.jpg)
+### [三段式提球機構Pyslvs![](/assets/pls.jpg)](https://github.com/40523249/40523249_2018/blob/gh-pages/40523249-2.pyslvs)
 
-### 三段試題球機構slvs![](/assets/slvs.jpg)
+### [三段試提球機構slvs![](/assets/slvs.jpg)](https://github.com/40523249/40523249_2018/blob/gh-pages/40523249-2.slvs)
 
 ### onshape組合圖![](/assets/os pic.png)
 
@@ -31,6 +31,8 @@
 ### [ttt檔](https://github.com/40523249/40523249_2018/blob/gh-pages/40523249.ttt)
 
 ### [組合檔](https://legacy.gitbook.com/book/405232491/gitbook_week3/edit#)
+
+### 
 
 
 
