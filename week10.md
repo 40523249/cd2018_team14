@@ -70,21 +70,21 @@
 > > >
 > > > 2. 完成兩齒嚙合靜態繪圖後, 請嘗試轉為動態繪圖.
 
-### 40523249:
+#### 40523249:
 
-### [靜態正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
+##### [靜態正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
 
-### [靜態組合正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
+##### [靜態組合正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
 
-### [組合轉動正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
+##### [組合轉動正齒輪](https://40523249.github.io/40523249_2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
 
-### 40523248:
+#### 40523248:
 
-### [繪製組合轉動正齒輪](https://s40523248.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
+##### [繪製組合轉動正齒輪](https://s40523248.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
 
-### [繪製靜態組合正齒輪](https://s40523248.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
+##### [繪製靜態組合正齒輪](https://s40523248.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
 
-### [繪製靜態正齒輪](https://s40523248.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
+##### [繪製靜態正齒輪](https://s40523248.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
 
 
 
