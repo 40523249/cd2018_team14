@@ -21,5 +21,4 @@
 * [week14](week14.md)
 * [week15](week15.md)
 * [week16](week16.md)
-* [Final Test](final-test.md)
 
