@@ -11,7 +11,7 @@
 
 小組利用pyslvs設計雙六連桿機構，放入solvespace看六連桿機構線段的所有尺寸\(目前還未完全完成\) ![](/assets/擷取.JPG)
 
-### ![](/assets/未命名100.png)![](/assets/26--.png)
+### ![](/assets/未命名100.png)![](/assets/26--.png)二段式六連桿各角度視圖![](/assets/1.JPG)![](/assets/2.JPG)![](/assets/3.JPG)
 
 #### [二段式六連桿Vrep檔](https://github.com/40523249/cd2018_team14/blob/gh_pages/VPP7 OK.ttt)
 
