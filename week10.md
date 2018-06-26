@@ -18,6 +18,8 @@
 
 ##### ![](/assets/4.JPG)
 
+##### 我們的二段式六連桿提球機構中的提球機構是使用上學期所製作的機構並結合本學期所製作的軌道及連桿提球機構
+
 ##### [二段式六連桿plsvs檔](https://github.com/40523249/cd2018_team14/blob/gh_pages/bg14 Ball lifter .pyslvs)
 
 ##### [二段式六連桿slvs檔](https://github.com/40523249/cd2018_team14/blob/gh_pages/bg14 Ball lifter .slvs)
