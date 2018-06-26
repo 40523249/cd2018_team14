@@ -26,6 +26,8 @@
 
 ##### [二段式六連桿單測影片](https://www.youtube.com/watch?v=kDwXHpTHiwQ)
 
+##### [二段式六連桿模擬影片](https://www.youtube.com/watch?v=5T7fy8LDIXE)
+
 ##### 
 
 > # W11
