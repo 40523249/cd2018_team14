@@ -12,13 +12,17 @@
 
 ##### 學習使用 Pyslvs\(2D\) 並且將檔案放入solvespace\(3D\)查看畫出作動線
 
-小組利用pyslvs設計雙六連桿機構，放入solvespace看六連桿機構線段的所有尺寸\(目前還未完全完成\) ![](/assets/擷取.JPG)
+在這學期我們學習使用Pyslvs設計連桿機構並且以此為基準來設計連桿的提球機構
 
-### [Pyslvs![](/assets/未命名100.png)](https://github.com/s40523248/cd2018_team14/blob/gh-pages/Ball lifter .pyslvs)![](/assets/26--.png)二段式六連桿各角度視圖![](/assets/1.JPG)![](/assets/2.JPG)![](/assets/3.JPG)
+以下是我們的成果
 
-##### ![](/assets/4.JPG)
+小組利用pyslvs設計雙六連桿機構![](/assets/0f036812-54e3-4e27-a294-874bc0f410f3.png) 將設計好的連桿放入solvespace查看六連桿機構線段的所有尺寸![](/assets/擷取.JPG)
 
-##### 我們的二段式六連桿提球機構中的提球機構是使用上學期所製作的機構並結合本學期所製作的軌道及連桿提球機構形成一個可循環提球機構
+在Onshape中繪製成立體圖![](/assets/26--.png)繪製完成後進入Vrep進行模擬![](/assets/1.JPG)視圖\(一\)![](/assets/2.JPG)視圖\(二\)![](/assets/3.JPG)
+
+確認模擬沒問題後即可加入軌道及提球機構做組合並且模擬![](/assets/4.JPG)
+
+我們的二段式六連桿提球機構中的提球機構是使用上學期所製作的機構並結合本學期所製作的軌道及連桿提球機構形成一個可循環提球機構
 
 ##### [二段式六連桿plsvs檔](https://github.com/40523249/cd2018_team14/blob/gh_pages/bg14 Ball lifter .pyslvs)
 
