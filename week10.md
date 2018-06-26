@@ -16,6 +16,8 @@
 
 ### [Pyslvs![](/assets/未命名100.png)](https://github.com/s40523248/cd2018_team14/blob/gh-pages/Ball lifter .pyslvs)![](/assets/26--.png)二段式六連桿各角度視圖![](/assets/1.JPG)![](/assets/2.JPG)![](/assets/3.JPG)
 
+##### ![](/assets/4.JPG)
+
 ##### [二段式六連桿plsvs檔](https://github.com/40523249/cd2018_team14/blob/gh_pages/bg14 Ball lifter .pyslvs)
 
 ##### [二段式六連桿slvs檔](https://github.com/40523249/cd2018_team14/blob/gh_pages/bg14 Ball lifter .slvs)
