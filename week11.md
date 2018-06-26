@@ -4,13 +4,13 @@
 
 # 40523248:
 
-### [三段式提球機構Pyslvs![](/assets/eb95afa0-48f6-499b-b5b0-eff44771884d.png)](https://github.com/s40523248/cd2018_team14/blob/gh-pages/40523248%E4%B8%89%E6%AE%B5%E5%BC%8F%E6%8F%90%E7%90%83%E6%A9%9F%E6%A7%8B.pyslvs)
+### [三段式提球機構Pyslvs![](/assets/eb95afa0-48f6-499b-b5b0-eff44771884d.png)](https://github.com/s40523248/cd2018_team14/blob/gh-pages/40523248三段式提球機構.pyslvs)
 
-### [三段試題球機構slvs](https://github.com/s40523248/cd2018_team14/blob/gh-pages/40523248%E4%B8%89%E6%AE%B5%E5%BC%8F%E6%8F%90%E7%90%83%E6%A9%9F%E6%A7%8B.slvs)
+### [三段試題球機構slvs](https://github.com/s40523248/cd2018_team14/blob/gh-pages/40523248三段式提球機構.slvs)
 
 ![](/assets/e97af706-ec2b-46e7-8320-182dc4b98ded.png)
 
-### onshape組合圖
+### [onshape組合圖](https://cad.onshape.com/documents/77ce409eed45012da5cd5c6c/w/3364ff86d5d540c97a854d4e/e/f104a937faa5dcebeb4a1f57)
 
 ![](/assets/未命名.png)
 
