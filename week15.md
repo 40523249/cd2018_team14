@@ -12,7 +12,7 @@
 > >
 > > ###### 且能得到設計者所預期的結果
 
-設定Pull request
+### 設定Pull request
 
 ###### 1.首先fork scrum-1取得倉儲當下的資料，之後如果有其他人上傳資料或檔案時，就必須利用Pull request更新
 
