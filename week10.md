@@ -76,6 +76,8 @@
 
 ##### [三段式六連桿Vrep檔](https://github.com/40523250/40523250_final/blob/gh-pages/期末/FPP2 OK.ttt)
 
+##### [三段式六連桿模擬影片](https://www.youtube.com/watch?v=MfP6UheX6Rk)
+
 ##### 
 
 > # W12
