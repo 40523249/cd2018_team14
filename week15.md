@@ -11,6 +11,20 @@
 > > ###### 工程設計的結果應該是可以讓人依循的
 > >
 > > ###### 且能得到設計者所預期的結果
+> >
+> > > # 協同
+> > >
+> > > 兩班採協同編輯[https://github.com/scrum-1/gitbook](https://github.com/scrum-1/gitbook)中的內容, 課程電子書:[https://scrum-1.gitbooks.io/cd2018/content/](https://scrum-1.gitbooks.io/cd2018/content/)
+> > >
+> > > 三人協力一同, 朝相同目標盡心盡力, 期望達成追求卓越的目標.
+> > >
+> > > 透過 Git 與 Github 協同:
+> > >
+> > > [https://help.github.com/categories/collaborating-with-issues-and-pull-requests/](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/)  
+> > > [https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267](https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267)  
+> > > [https://youtu.be/SCZF6I-Rc4I](https://youtu.be/SCZF6I-Rc4I)  
+> > > [https://youtu.be/jLWZaFzPS6Q](https://youtu.be/jLWZaFzPS6Q)  
+> > > [https://youtu.be/vrftiQcqIYM](https://youtu.be/vrftiQcqIYM)
 
 ### 設定Pull request
 
