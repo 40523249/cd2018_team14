@@ -16,5 +16,13 @@
 
 ###### 1.首先fork scrum-1取得倉儲當下的資料，之後如果有其他人上傳資料或檔案時，就必須利用Pull request更新
 
-![](/assets/2.png)![](/assets/4.png)
+###### ![](/assets/2.png)2.更新自己的githube時需要更改網址
+
+![](/assets/4.png)
+
+3.要讓自己的板次與scrum-1的板次相同或是相差一個版次 
+
+![](/assets/5.png)
+
+
 
